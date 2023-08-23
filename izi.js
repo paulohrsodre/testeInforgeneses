@@ -9,3 +9,5 @@ for (let i = 1; i <= 50; i++) {
         console.log(i);
     }
 }
+
+//print com o resultado do teste no console, no README.md
